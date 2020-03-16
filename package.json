@@ -1,15 +1,15 @@
 {
 	"name": "react-native-bootstrap",
-	"description": "React bootstrap, remade for React Native (& React Native For Web).",
+	"description": "React-bootstrap, remade for React Native (& React Native For Web).",
 	"version": "1.0.14",
 	"main": "lib/module/index",
 	"module": "lib/module/index",
 	"react-native": "lib/module/index",
 	"types": "lib/typescript/index",
-	"homepage": "https://github.com/nandorojo/expo-phone-auth",
+	"homepage": "https://github.com/nandorojo/react-native-bootstrap",
 	"repository": {
 		"type": "git",
-		"url": "https://github.com/nandorojo/expo-phone-auth"
+		"url": "https://github.com/nandorojo/react-native-bootstrap"
 	},
 	"scripts": {
 		"type-check": "tsc --noEmit",
@@ -30,10 +30,7 @@
 		"@react-native-community/bob": "^0.9.7",
 		"@types/react": "^16.9.11",
 		"@types/react-native": "^0.60.22",
-		"@types/uuid": "^3.4.5",
-		"eslint": "^6.8.0",
 		"eslint-config-nando": "^1.0.3",
-		"prettier": "^1.19.1",
 		"react": "^16.11.0",
 		"react-native": "https://github.com/expo/react-native/archive/sdk-36.0.0.tar.gz",
 		"typescript": "^3.7.5"
