@@ -1,7 +1,7 @@
 {
 	"name": "react-native-bootstrap",
 	"description": "React-bootstrap, remade for React Native (& React Native For Web).",
-	"version": "1.0.14",
+	"version": "0.0.1",
 	"main": "lib/module/index",
 	"module": "lib/module/index",
 	"react-native": "lib/module/index",
