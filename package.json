@@ -1,7 +1,7 @@
 {
-	"name": "react-native-bootstrap",
+	"name": "@nandorojo/bootstrap",
 	"description": "React-bootstrap's grid system, remade for React Native (& React Native For Web).",
-	"version": "0.0.1",
+	"version": "0.0.3",
 	"main": "lib/module/index",
 	"module": "lib/module/index",
 	"react-native": "lib/module/index",
@@ -33,7 +33,7 @@
 		"eslint-config-nando": "^1.0.3",
 		"react": "^16.11.0",
 		"react-native": "https://github.com/expo/react-native/archive/sdk-36.0.0.tar.gz",
-		"typescript": "^3.7.5"
+		"typescript": "^3.8.3"
 	},
 	"bugs": {
 		"url": "https://github.com/nandorojo/chatjs/issues"
